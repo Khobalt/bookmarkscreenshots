@@ -1,0 +1,14 @@
+{
+  "name": "bookmark-screenshot",
+  "version": "1.0.0",
+  "description": "A script that takes screenshots of bookmark links in a HTML file using Puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "jimp": "^0.22.4",
+    "puppeteer": "^19.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
