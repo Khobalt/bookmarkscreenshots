@@ -2,6 +2,8 @@
 
 This project takes screenshots of websites saved in a bookmarks.html file and stitches them together into a single image. It also offers a sorting function.
 
+I wrote this so I could visualize all the pages I thought were important at one time. I have to confess, I'm a bookmark horder. As it would be very tedious for me to manually click through all my folders, I wrote these scripts instead! Enjoy if you so choose.
+
 ## Requirements
 
 - Node.js (tested with v18.14.1 on Windows)
